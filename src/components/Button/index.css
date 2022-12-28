@@ -1,0 +1,117 @@
+.popup-container1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 25px;
+}
+.sign-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  border-radius: 26px;
+  font-size: 14px;
+  padding: 3px;
+}
+.h13 {
+  text-align: center;
+  color: black;
+}
+.input1 {
+  border: 1px solid #e0e0e0;
+  max-width: 260px;
+  margin-top: 20px;
+  border-radius: 4px;
+  margin: auto;
+  font-size: 1rem;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  outline: none;
+}
+
+input {
+  margin-left: 25px;
+
+  padding-top: 15px;
+}
+label {
+  font-size: 20px;
+}
+.popup-container {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 26px;
+}
+.google-container {
+  background-color: rgb(50, 18, 122);
+  display: inline-flex;
+  margin: auto;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  box-shadow: rgb(0 0 0 / 24%) 0px 2px 2px 0px, rgb(0 0 0 / 24%) 0px 0px 1px 0px;
+  padding: 0px;
+  border-radius: 2px;
+  border: 1px solid transparent;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Roboto, sans-serif;
+  width: 250px;
+  height: 35px;
+}
+.login-icon {
+  color: #32127a;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.g-icon {
+  font-size: 30px;
+  margin-right: 10px;
+  background-color: aliceblue;
+}
+.bt-1 {
+  background-color: transparent;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: none;
+  border: 1px solid #32127a;
+}
+.div1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 25px;
+}
+.p13 {
+  color: black;
+}
+.login {
+  font-size: 24px;
+  color: black;
+}
+.or {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.line {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  background-color: rgba(0, 0, 0, 0.12);
+  height: 1px;
+  margin: 0;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.form-container4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
